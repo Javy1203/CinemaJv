@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQ59NPwzHE2XlYwU2VwHF9Wb0IJ.jpg" group-title="Peliculas", Godzilla II: Rey de los monstruos
-https://cdn.lbryplayer.xyz/content/claims/Godzilla.king.of.the.monsters.2019.1080p-dual-lat-cinecalidad.to/ec8f8c70e5e8cd6907c833bb0009b2898c0dd2fb/stream
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9E53Fd4f2IpH0u7foSRZMYlgDfn.jpg" group-title="Peliculas",Tyler Rake
-https://www.mundiario.com/media/mundiario/images/2018/08/29/2018082922181467343.jpg
+#EXTM3U
+#EXTINF:0, tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Logo.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN
+https://e10.stephn.xyz:443/ingestnb4s/jca/f.m3u8
+#EXTINF:-1,  tvg-logo="http://foto.com/Az-Cinema.png" tvg-name="AZ Cinema"  group-title="CINE",AZ Cinema
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?supertvlat=%2F.ts
