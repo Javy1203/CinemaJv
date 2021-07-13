@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, tvg-logo= "https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Logo.png" tvg-name="ESPN 2"  group-title="DEPORTES",ESPN
-https://e10.stephn.xyz:443/ingestnb4s/jca/f.m3u8
-#EXTINF:-1,  tvg-logo="http://foto.com/Az-Cinema.png" tvg-name="AZ Cinema"  group-title="CINE",AZ Cinema
-http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1 channel-id="1" tvg-id="Atípico S01 E01 " tvg-logo="https://www.themoviedb.org/t/p/w454_and_h254_bestv2/FKrRmDJ8O8VVuejr94eQOcpFAn.jpg"  channel-id="Atípico S01 E01 " group-title="Atípico",Atípico S01 E01 
+https://d01vz3.debrid.it/dl/25j9hf9099e/Atypical%2520-%2520S01E01%2520-%2520Antarctica.mkv
+
+
